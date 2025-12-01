@@ -1,4 +1,4 @@
-# 📘 CBT-5.0
+# 📘 CBT-V5.0
 
 **CBT-5.0** adalah aplikasi Computer Based Test yang dirancang untuk
 memberikan pengalaman ujian digital yang **ringan**, **mudah
@@ -9,20 +9,9 @@ kursus, hingga kebutuhan ujian mandiri.
 
 ## ✨ Fitur Utama
 
--   ⚡ **Ringan** --- berjalan lancar di berbagai perangkat.
+-   ⚡ **BISA KELUAR** --- berjalan lancar di berbagai perangkat.
 -   🎯 **Mudah Dipakai** --- UI intuitif, langsung paham.
 -   🧩 **Simple** --- fokus pada fungsi utama tanpa menu rumit.
-
-------------------------------------------------------------------------
-
-## 🖼️ Tangkapan Layar (Opsional)
-
-Tambahkan screenshot aplikasi di folder `/screenshots`:
-
-    /screenshots
-      ├── login.jpg
-      ├── dashboard.jpg
-      └── ujian.jpg
 
 ------------------------------------------------------------------------
 
